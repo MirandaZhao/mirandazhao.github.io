@@ -1,4 +1,5 @@
 title: mz
-description: mz
-show_downloads: true
-theme: jekyll-theme-minimal
+# description: mz
+# show_downloads: true
+# theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
